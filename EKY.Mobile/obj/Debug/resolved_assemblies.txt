@@ -1,0 +1,9 @@
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\EKY.Mobile.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\Mono.Android.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\mscorlib.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\System.Core.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\System.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\System.Xml.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\System.Xml.Linq.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\System.Runtime.Serialization.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\assemblies\System.ServiceModel.Internals.dll

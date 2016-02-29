@@ -1,0 +1,15 @@
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\bin\Debug\EKY.Mobile.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\bin\Debug\EKY.Mobile.pdb
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\bin\Debug\EKY.Mobile.EKY.Mobile.apk
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\bin\Debug\EKY.Mobile.EKY.Mobile-Signed.apk
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\EKY.Mobile.dll
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\EKY.Mobile.pdb
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\android\bin\EKY.Mobile.EKY.Mobile.apk
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\res\layout\eky.xml
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\res\layout\main.xml
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\res\values\strings.xml
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\res\drawable\icon.png
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\R.cs.flag
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\uploadflags.txt
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\obj\Debug\EKY.Mobile.dll.mdb
+c:\users\kyle\documents\visual studio 2015\Projects\EKY.Mobile\EKY.Mobile\bin\Debug\EKY.Mobile.dll.mdb

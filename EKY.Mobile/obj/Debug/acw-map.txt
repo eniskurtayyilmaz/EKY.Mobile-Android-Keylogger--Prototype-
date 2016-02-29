@@ -1,0 +1,4 @@
+EKY.Mobile.MainActivity, EKY.Mobile;md52808325cbde973f3d9304b8081916004.MainActivity
+EKY.Mobile.MainActivity, EKY.Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52808325cbde973f3d9304b8081916004.MainActivity
+EKY.Mobile.MainActivity;md52808325cbde973f3d9304b8081916004.MainActivity
+eky.mobile.MainActivity;md52808325cbde973f3d9304b8081916004.MainActivity
